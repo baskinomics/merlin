@@ -1,8 +1,8 @@
 # Merlin Hardware
 
-This directory contains documentation pertaining to the hardware components that `merlin` is built with.
+This directory contains documentation pertaining to the hardware components that [`merlin`](https://pcpartpicker.com/list/kGdgBb) is built with.
 
-<a href="https://pcpartpicker.com/list/kGdgBb">Merlin - PCPartPicker</a>
+## Overview
 <table class="pcpp-part-list">
   <thead>
     <tr>
